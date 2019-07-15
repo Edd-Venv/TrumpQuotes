@@ -55,7 +55,6 @@ class App extends React.Component {
       } else {
         this.setState({
           isLoaded: true,
-          //Note [response.data] fixed TypeError
           titles: [response.data]
         });
       }
