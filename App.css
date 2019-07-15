@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  align-content: space-between;
+  align-items: center;
+  width: 50%;
+  flex-direction: row;
+  padding-top: 6%;
+  margin-left: 70%;
+  color: brown;
+}
